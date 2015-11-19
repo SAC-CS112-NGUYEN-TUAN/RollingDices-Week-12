@@ -24,4 +24,6 @@ public class Dice {
 		}
 		return randomnum;
 	}
+	
+	
 }
